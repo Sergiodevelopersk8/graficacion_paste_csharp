@@ -1,0 +1,32 @@
+C:\Users\Gustavo Corona\source\repos\Desarrolo de aplicaciones\SoluMVCGraficaDePastel\ClassModeloGrafiPastel\bin\Debug\ClassModeloGrafiPastel.dll
+C:\Users\Gustavo Corona\source\repos\Desarrolo de aplicaciones\SoluMVCGraficaDePastel\ClassModeloGrafiPastel\bin\Debug\ClassModeloGrafiPastel.pdb
+C:\Users\Gustavo Corona\source\repos\Desarrolo de aplicaciones\SoluMVCGraficaDePastel\ClassModeloGrafiPastel\obj\Debug\ClassModeloGrafiPastel.csprojResolveAssemblyReference.cache
+C:\Users\Gustavo Corona\source\repos\Desarrolo de aplicaciones\SoluMVCGraficaDePastel\ClassModeloGrafiPastel\obj\Debug\ClassModeloGrafiPastel.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Corona\source\repos\Desarrolo de aplicaciones\SoluMVCGraficaDePastel\ClassModeloGrafiPastel\obj\Debug\ClassModeloGrafiPastel.dll
+C:\Users\Gustavo Corona\source\repos\Desarrolo de aplicaciones\SoluMVCGraficaDePastel\ClassModeloGrafiPastel\obj\Debug\ClassModeloGrafiPastel.pdb
+D:\el nuevo\SoluMVCGraficaDePastel\ClassModeloGrafiPastel\bin\Debug\ClassModeloGrafiPastel.dll
+D:\el nuevo\SoluMVCGraficaDePastel\ClassModeloGrafiPastel\bin\Debug\ClassModeloGrafiPastel.pdb
+D:\el nuevo\SoluMVCGraficaDePastel\ClassModeloGrafiPastel\obj\Debug\ClassModeloGrafiPastel.csproj.CoreCompileInputs.cache
+D:\el nuevo\SoluMVCGraficaDePastel\ClassModeloGrafiPastel\obj\Debug\ClassModeloGrafiPastel.dll
+D:\el nuevo\SoluMVCGraficaDePastel\ClassModeloGrafiPastel\obj\Debug\ClassModeloGrafiPastel.pdb
+D:\el nuevo\SoluMVCGraficaDePastel\ClassModeloGrafiPastel\obj\Debug\ClassModeloGrafiPastel.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\graficaFinal\ClassModeloGrafiPastel\obj\Debug\ClassModeloGrafiPastel.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\graficaFinal\ClassModeloGrafiPastel\obj\Debug\ClassModeloGrafiPastel.dll
+C:\Users\Dell\Desktop\graficaFinal\ClassModeloGrafiPastel\obj\Debug\ClassModeloGrafiPastel.pdb
+C:\Users\Dell\Desktop\graficaFinal\ClassModeloGrafiPastel\bin\Debug\ClassModeloGrafiPastel.dll
+C:\Users\Dell\Desktop\graficaFinal\ClassModeloGrafiPastel\bin\Debug\ClassModeloGrafiPastel.pdb
+C:\Users\Dell\Desktop\graficaFinal - copia\ClassModeloGrafiPastel\bin\Debug\ClassModeloGrafiPastel.dll
+C:\Users\Dell\Desktop\graficaFinal - copia\ClassModeloGrafiPastel\bin\Debug\ClassModeloGrafiPastel.pdb
+C:\Users\Dell\Desktop\graficaFinal - copia\ClassModeloGrafiPastel\obj\Debug\ClassModeloGrafiPastel.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\graficaFinal - copia\ClassModeloGrafiPastel\obj\Debug\ClassModeloGrafiPastel.dll
+C:\Users\Dell\Desktop\graficaFinal - copia\ClassModeloGrafiPastel\obj\Debug\ClassModeloGrafiPastel.pdb
+C:\Users\Dell\Desktop\graficaFinal - copia - copia\ClassModeloGrafiPastel\bin\Debug\ClassModeloGrafiPastel.dll
+C:\Users\Dell\Desktop\graficaFinal - copia - copia\ClassModeloGrafiPastel\bin\Debug\ClassModeloGrafiPastel.pdb
+C:\Users\Dell\Desktop\graficaFinal - copia - copia\ClassModeloGrafiPastel\obj\Debug\ClassModeloGrafiPastel.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\graficaFinal - copia - copia\ClassModeloGrafiPastel\obj\Debug\ClassModeloGrafiPastel.dll
+C:\Users\Dell\Desktop\graficaFinal - copia - copia\ClassModeloGrafiPastel\obj\Debug\ClassModeloGrafiPastel.pdb
+C:\Users\Dell\Documents\graficaFinal - copia\ClassModeloGrafiPastel\bin\Debug\ClassModeloGrafiPastel.dll
+C:\Users\Dell\Documents\graficaFinal - copia\ClassModeloGrafiPastel\bin\Debug\ClassModeloGrafiPastel.pdb
+C:\Users\Dell\Documents\graficaFinal - copia\ClassModeloGrafiPastel\obj\Debug\ClassModeloGrafiPastel.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\graficaFinal - copia\ClassModeloGrafiPastel\obj\Debug\ClassModeloGrafiPastel.dll
+C:\Users\Dell\Documents\graficaFinal - copia\ClassModeloGrafiPastel\obj\Debug\ClassModeloGrafiPastel.pdb

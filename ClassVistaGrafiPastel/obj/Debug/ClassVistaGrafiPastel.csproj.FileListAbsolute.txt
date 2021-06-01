@@ -1,0 +1,37 @@
+C:\Users\Gustavo Corona\source\repos\Desarrolo de aplicaciones\SoluMVCGraficaDePastel\ClassVistaGrafiPastel\bin\Debug\ClassVistaGrafiPastel.dll
+C:\Users\Gustavo Corona\source\repos\Desarrolo de aplicaciones\SoluMVCGraficaDePastel\ClassVistaGrafiPastel\bin\Debug\ClassVistaGrafiPastel.pdb
+C:\Users\Gustavo Corona\source\repos\Desarrolo de aplicaciones\SoluMVCGraficaDePastel\ClassVistaGrafiPastel\obj\Debug\ClassVistaGrafiPastel.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Corona\source\repos\Desarrolo de aplicaciones\SoluMVCGraficaDePastel\ClassVistaGrafiPastel\obj\Debug\ClassVistaGrafiPastel.dll
+C:\Users\Gustavo Corona\source\repos\Desarrolo de aplicaciones\SoluMVCGraficaDePastel\ClassVistaGrafiPastel\obj\Debug\ClassVistaGrafiPastel.pdb
+D:\el nuevo\SoluMVCGraficaDePastel\ClassVistaGrafiPastel\bin\Debug\ClassVistaGrafiPastel.dll
+D:\el nuevo\SoluMVCGraficaDePastel\ClassVistaGrafiPastel\bin\Debug\ClassVistaGrafiPastel.pdb
+D:\el nuevo\SoluMVCGraficaDePastel\ClassVistaGrafiPastel\obj\Debug\ClassVistaGrafiPastel.csproj.CoreCompileInputs.cache
+D:\el nuevo\SoluMVCGraficaDePastel\ClassVistaGrafiPastel\obj\Debug\ClassVistaGrafiPastel.dll
+D:\el nuevo\SoluMVCGraficaDePastel\ClassVistaGrafiPastel\obj\Debug\ClassVistaGrafiPastel.pdb
+D:\el nuevo\SoluMVCGraficaDePastel - copia\ClassVistaGrafiPastel\bin\Debug\ClassVistaGrafiPastel.dll
+D:\el nuevo\SoluMVCGraficaDePastel - copia\ClassVistaGrafiPastel\bin\Debug\ClassVistaGrafiPastel.pdb
+D:\el nuevo\SoluMVCGraficaDePastel - copia\ClassVistaGrafiPastel\obj\Debug\ClassVistaGrafiPastel.csprojAssemblyReference.cache
+D:\el nuevo\SoluMVCGraficaDePastel - copia\ClassVistaGrafiPastel\obj\Debug\ClassVistaGrafiPastel.csproj.CoreCompileInputs.cache
+D:\el nuevo\SoluMVCGraficaDePastel - copia\ClassVistaGrafiPastel\obj\Debug\ClassVistaGrafiPastel.dll
+D:\el nuevo\SoluMVCGraficaDePastel - copia\ClassVistaGrafiPastel\obj\Debug\ClassVistaGrafiPastel.pdb
+D:\el nuevo\SoluMVCGraficaDePastel\ClassVistaGrafiPastel\obj\Debug\ClassVistaGrafiPastel.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\graficaFinal\ClassVistaGrafiPastel\bin\Debug\ClassVistaGrafiPastel.dll
+C:\Users\Dell\Desktop\graficaFinal\ClassVistaGrafiPastel\bin\Debug\ClassVistaGrafiPastel.pdb
+C:\Users\Dell\Desktop\graficaFinal\ClassVistaGrafiPastel\obj\Debug\ClassVistaGrafiPastel.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\graficaFinal\ClassVistaGrafiPastel\obj\Debug\ClassVistaGrafiPastel.dll
+C:\Users\Dell\Desktop\graficaFinal\ClassVistaGrafiPastel\obj\Debug\ClassVistaGrafiPastel.pdb
+C:\Users\Dell\Desktop\graficaFinal - copia\ClassVistaGrafiPastel\bin\Debug\ClassVistaGrafiPastel.dll
+C:\Users\Dell\Desktop\graficaFinal - copia\ClassVistaGrafiPastel\bin\Debug\ClassVistaGrafiPastel.pdb
+C:\Users\Dell\Desktop\graficaFinal - copia\ClassVistaGrafiPastel\obj\Debug\ClassVistaGrafiPastel.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\graficaFinal - copia\ClassVistaGrafiPastel\obj\Debug\ClassVistaGrafiPastel.dll
+C:\Users\Dell\Desktop\graficaFinal - copia\ClassVistaGrafiPastel\obj\Debug\ClassVistaGrafiPastel.pdb
+C:\Users\Dell\Desktop\graficaFinal - copia - copia\ClassVistaGrafiPastel\bin\Debug\ClassVistaGrafiPastel.dll
+C:\Users\Dell\Desktop\graficaFinal - copia - copia\ClassVistaGrafiPastel\bin\Debug\ClassVistaGrafiPastel.pdb
+C:\Users\Dell\Desktop\graficaFinal - copia - copia\ClassVistaGrafiPastel\obj\Debug\ClassVistaGrafiPastel.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\graficaFinal - copia - copia\ClassVistaGrafiPastel\obj\Debug\ClassVistaGrafiPastel.dll
+C:\Users\Dell\Desktop\graficaFinal - copia - copia\ClassVistaGrafiPastel\obj\Debug\ClassVistaGrafiPastel.pdb
+C:\Users\Dell\Documents\graficaFinal - copia\ClassVistaGrafiPastel\bin\Debug\ClassVistaGrafiPastel.dll
+C:\Users\Dell\Documents\graficaFinal - copia\ClassVistaGrafiPastel\bin\Debug\ClassVistaGrafiPastel.pdb
+C:\Users\Dell\Documents\graficaFinal - copia\ClassVistaGrafiPastel\obj\Debug\ClassVistaGrafiPastel.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\graficaFinal - copia\ClassVistaGrafiPastel\obj\Debug\ClassVistaGrafiPastel.dll
+C:\Users\Dell\Documents\graficaFinal - copia\ClassVistaGrafiPastel\obj\Debug\ClassVistaGrafiPastel.pdb

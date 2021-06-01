@@ -1,0 +1,105 @@
+C:\Users\Gustavo Corona\source\repos\Desarrolo de aplicaciones\SoluMVCGraficaDePastel\WindControladorGrafiPastel\bin\Debug\WindControladorGrafiPastel.exe.config
+C:\Users\Gustavo Corona\source\repos\Desarrolo de aplicaciones\SoluMVCGraficaDePastel\WindControladorGrafiPastel\bin\Debug\WindControladorGrafiPastel.exe
+C:\Users\Gustavo Corona\source\repos\Desarrolo de aplicaciones\SoluMVCGraficaDePastel\WindControladorGrafiPastel\bin\Debug\WindControladorGrafiPastel.pdb
+C:\Users\Gustavo Corona\source\repos\Desarrolo de aplicaciones\SoluMVCGraficaDePastel\WindControladorGrafiPastel\obj\Debug\WindControladorGrafiPastel.csprojResolveAssemblyReference.cache
+C:\Users\Gustavo Corona\source\repos\Desarrolo de aplicaciones\SoluMVCGraficaDePastel\WindControladorGrafiPastel\obj\Debug\WindControladorGrafiPastel.Properties.Resources.resources
+C:\Users\Gustavo Corona\source\repos\Desarrolo de aplicaciones\SoluMVCGraficaDePastel\WindControladorGrafiPastel\obj\Debug\WindControladorGrafiPastel.csproj.GenerateResource.cache
+C:\Users\Gustavo Corona\source\repos\Desarrolo de aplicaciones\SoluMVCGraficaDePastel\WindControladorGrafiPastel\obj\Debug\WindControladorGrafiPastel.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Corona\source\repos\Desarrolo de aplicaciones\SoluMVCGraficaDePastel\WindControladorGrafiPastel\obj\Debug\WindControladorGrafiPastel.exe
+C:\Users\Gustavo Corona\source\repos\Desarrolo de aplicaciones\SoluMVCGraficaDePastel\WindControladorGrafiPastel\obj\Debug\WindControladorGrafiPastel.pdb
+C:\Users\Gustavo Corona\source\repos\Desarrolo de aplicaciones\SoluMVCGraficaDePastel\WindControladorGrafiPastel\bin\Debug\ClassVistaGrafiPastel.dll
+C:\Users\Gustavo Corona\source\repos\Desarrolo de aplicaciones\SoluMVCGraficaDePastel\WindControladorGrafiPastel\bin\Debug\ClassVistaGrafiPastel.pdb
+C:\Users\Gustavo Corona\source\repos\Desarrolo de aplicaciones\SoluMVCGraficaDePastel\WindControladorGrafiPastel\obj\Debug\WindControladorGrafiPastel.Form1.resources
+C:\Users\Gustavo Corona\source\repos\Desarrolo de aplicaciones\SoluMVCGraficaDePastel\WindControladorGrafiPastel\obj\Debug\WindControladorGrafiPastel.csproj.CopyComplete
+C:\Users\Gustavo Corona\source\repos\Desarrolo de aplicaciones\SoluMVCGraficaDePastel\WindControladorGrafiPastel\bin\Debug\ClassModeloGrafiPastel.dll
+C:\Users\Gustavo Corona\source\repos\Desarrolo de aplicaciones\SoluMVCGraficaDePastel\WindControladorGrafiPastel\bin\Debug\ClassModeloGrafiPastel.pdb
+D:\el nuevo\SoluMVCGraficaDePastel\WindControladorGrafiPastel\bin\Debug\WindControladorGrafiPastel.exe.config
+D:\el nuevo\SoluMVCGraficaDePastel\WindControladorGrafiPastel\bin\Debug\WindControladorGrafiPastel.exe
+D:\el nuevo\SoluMVCGraficaDePastel\WindControladorGrafiPastel\bin\Debug\WindControladorGrafiPastel.pdb
+D:\el nuevo\SoluMVCGraficaDePastel\WindControladorGrafiPastel\bin\Debug\ClassModeloGrafiPastel.dll
+D:\el nuevo\SoluMVCGraficaDePastel\WindControladorGrafiPastel\bin\Debug\ClassVistaGrafiPastel.dll
+D:\el nuevo\SoluMVCGraficaDePastel\WindControladorGrafiPastel\bin\Debug\ClassModeloGrafiPastel.pdb
+D:\el nuevo\SoluMVCGraficaDePastel\WindControladorGrafiPastel\bin\Debug\ClassVistaGrafiPastel.pdb
+D:\el nuevo\SoluMVCGraficaDePastel\WindControladorGrafiPastel\obj\Debug\WindControladorGrafiPastel.csprojAssemblyReference.cache
+D:\el nuevo\SoluMVCGraficaDePastel\WindControladorGrafiPastel\obj\Debug\WindControladorGrafiPastel.Form1.resources
+D:\el nuevo\SoluMVCGraficaDePastel\WindControladorGrafiPastel\obj\Debug\WindControladorGrafiPastel.Properties.Resources.resources
+D:\el nuevo\SoluMVCGraficaDePastel\WindControladorGrafiPastel\obj\Debug\WindControladorGrafiPastel.csproj.GenerateResource.cache
+D:\el nuevo\SoluMVCGraficaDePastel\WindControladorGrafiPastel\obj\Debug\WindControladorGrafiPastel.csproj.CoreCompileInputs.cache
+D:\el nuevo\SoluMVCGraficaDePastel\WindControladorGrafiPastel\obj\Debug\WindControladorGrafiPastel.csproj.CopyComplete
+D:\el nuevo\SoluMVCGraficaDePastel\WindControladorGrafiPastel\obj\Debug\WindControladorGrafiPastel.exe
+D:\el nuevo\SoluMVCGraficaDePastel\WindControladorGrafiPastel\obj\Debug\WindControladorGrafiPastel.pdb
+D:\el nuevo\SoluMVCGraficaDePastel - copia\WindControladorGrafiPastel\bin\Debug\WindControladorGrafiPastel.exe.config
+D:\el nuevo\SoluMVCGraficaDePastel - copia\WindControladorGrafiPastel\bin\Debug\WindControladorGrafiPastel.exe
+D:\el nuevo\SoluMVCGraficaDePastel - copia\WindControladorGrafiPastel\bin\Debug\WindControladorGrafiPastel.pdb
+D:\el nuevo\SoluMVCGraficaDePastel - copia\WindControladorGrafiPastel\bin\Debug\ClassModeloGrafiPastel.dll
+D:\el nuevo\SoluMVCGraficaDePastel - copia\WindControladorGrafiPastel\bin\Debug\ClassVistaGrafiPastel.dll
+D:\el nuevo\SoluMVCGraficaDePastel - copia\WindControladorGrafiPastel\bin\Debug\ClassModeloGrafiPastel.pdb
+D:\el nuevo\SoluMVCGraficaDePastel - copia\WindControladorGrafiPastel\bin\Debug\ClassVistaGrafiPastel.pdb
+D:\el nuevo\SoluMVCGraficaDePastel - copia\WindControladorGrafiPastel\obj\Debug\WindControladorGrafiPastel.csprojAssemblyReference.cache
+D:\el nuevo\SoluMVCGraficaDePastel - copia\WindControladorGrafiPastel\obj\Debug\WindControladorGrafiPastel.Form1.resources
+D:\el nuevo\SoluMVCGraficaDePastel - copia\WindControladorGrafiPastel\obj\Debug\WindControladorGrafiPastel.Properties.Resources.resources
+D:\el nuevo\SoluMVCGraficaDePastel - copia\WindControladorGrafiPastel\obj\Debug\WindControladorGrafiPastel.csproj.GenerateResource.cache
+D:\el nuevo\SoluMVCGraficaDePastel - copia\WindControladorGrafiPastel\obj\Debug\WindControladorGrafiPastel.csproj.CoreCompileInputs.cache
+D:\el nuevo\SoluMVCGraficaDePastel - copia\WindControladorGrafiPastel\obj\Debug\WindControladorGrafiPastel.csproj.CopyComplete
+D:\el nuevo\SoluMVCGraficaDePastel - copia\WindControladorGrafiPastel\obj\Debug\WindControladorGrafiPastel.exe
+D:\el nuevo\SoluMVCGraficaDePastel - copia\WindControladorGrafiPastel\obj\Debug\WindControladorGrafiPastel.pdb
+C:\Users\Dell\Desktop\graficaFinal\WindControladorGrafiPastel\bin\Debug\WindControladorGrafiPastel.exe.config
+C:\Users\Dell\Desktop\graficaFinal\WindControladorGrafiPastel\bin\Debug\WindControladorGrafiPastel.exe
+C:\Users\Dell\Desktop\graficaFinal\WindControladorGrafiPastel\bin\Debug\WindControladorGrafiPastel.pdb
+C:\Users\Dell\Desktop\graficaFinal\WindControladorGrafiPastel\bin\Debug\ClassVistaGrafiPastel.dll
+C:\Users\Dell\Desktop\graficaFinal\WindControladorGrafiPastel\bin\Debug\ClassModeloGrafiPastel.pdb
+C:\Users\Dell\Desktop\graficaFinal\WindControladorGrafiPastel\bin\Debug\ClassVistaGrafiPastel.pdb
+C:\Users\Dell\Desktop\graficaFinal\WindControladorGrafiPastel\obj\Debug\WindControladorGrafiPastel.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\graficaFinal\WindControladorGrafiPastel\obj\Debug\WindControladorGrafiPastel.Form1.resources
+C:\Users\Dell\Desktop\graficaFinal\WindControladorGrafiPastel\obj\Debug\WindControladorGrafiPastel.Properties.Resources.resources
+C:\Users\Dell\Desktop\graficaFinal\WindControladorGrafiPastel\obj\Debug\WindControladorGrafiPastel.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\graficaFinal\WindControladorGrafiPastel\obj\Debug\WindControladorGrafiPastel.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\graficaFinal\WindControladorGrafiPastel\obj\Debug\WindControladorGrafiPastel.csproj.CopyComplete
+C:\Users\Dell\Desktop\graficaFinal\WindControladorGrafiPastel\obj\Debug\WindControladorGrafiPastel.exe
+C:\Users\Dell\Desktop\graficaFinal\WindControladorGrafiPastel\obj\Debug\WindControladorGrafiPastel.pdb
+C:\Users\Dell\Desktop\graficaFinal\WindControladorGrafiPastel\bin\Debug\ClassModeloGrafiPastel.dll
+C:\Users\Dell\Desktop\graficaFinal - copia\WindControladorGrafiPastel\bin\Debug\WindControladorGrafiPastel.exe.config
+C:\Users\Dell\Desktop\graficaFinal - copia\WindControladorGrafiPastel\bin\Debug\WindControladorGrafiPastel.exe
+C:\Users\Dell\Desktop\graficaFinal - copia\WindControladorGrafiPastel\bin\Debug\WindControladorGrafiPastel.pdb
+C:\Users\Dell\Desktop\graficaFinal - copia\WindControladorGrafiPastel\bin\Debug\ClassModeloGrafiPastel.dll
+C:\Users\Dell\Desktop\graficaFinal - copia\WindControladorGrafiPastel\bin\Debug\ClassVistaGrafiPastel.dll
+C:\Users\Dell\Desktop\graficaFinal - copia\WindControladorGrafiPastel\bin\Debug\ClassModeloGrafiPastel.pdb
+C:\Users\Dell\Desktop\graficaFinal - copia\WindControladorGrafiPastel\bin\Debug\ClassVistaGrafiPastel.pdb
+C:\Users\Dell\Desktop\graficaFinal - copia\WindControladorGrafiPastel\obj\Debug\WindControladorGrafiPastel.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\graficaFinal - copia\WindControladorGrafiPastel\obj\Debug\WindControladorGrafiPastel.Form1.resources
+C:\Users\Dell\Desktop\graficaFinal - copia\WindControladorGrafiPastel\obj\Debug\WindControladorGrafiPastel.Properties.Resources.resources
+C:\Users\Dell\Desktop\graficaFinal - copia\WindControladorGrafiPastel\obj\Debug\WindControladorGrafiPastel.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\graficaFinal - copia\WindControladorGrafiPastel\obj\Debug\WindControladorGrafiPastel.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\graficaFinal - copia\WindControladorGrafiPastel\obj\Debug\WindControladorGrafiPastel.csproj.CopyComplete
+C:\Users\Dell\Desktop\graficaFinal - copia\WindControladorGrafiPastel\obj\Debug\WindControladorGrafiPastel.exe
+C:\Users\Dell\Desktop\graficaFinal - copia\WindControladorGrafiPastel\obj\Debug\WindControladorGrafiPastel.pdb
+C:\Users\Dell\Desktop\graficaFinal - copia - copia\WindControladorGrafiPastel\bin\Debug\WindControladorGrafiPastel.exe.config
+C:\Users\Dell\Desktop\graficaFinal - copia - copia\WindControladorGrafiPastel\bin\Debug\WindControladorGrafiPastel.exe
+C:\Users\Dell\Desktop\graficaFinal - copia - copia\WindControladorGrafiPastel\bin\Debug\WindControladorGrafiPastel.pdb
+C:\Users\Dell\Desktop\graficaFinal - copia - copia\WindControladorGrafiPastel\bin\Debug\ClassModeloGrafiPastel.dll
+C:\Users\Dell\Desktop\graficaFinal - copia - copia\WindControladorGrafiPastel\bin\Debug\ClassVistaGrafiPastel.dll
+C:\Users\Dell\Desktop\graficaFinal - copia - copia\WindControladorGrafiPastel\bin\Debug\ClassModeloGrafiPastel.pdb
+C:\Users\Dell\Desktop\graficaFinal - copia - copia\WindControladorGrafiPastel\bin\Debug\ClassVistaGrafiPastel.pdb
+C:\Users\Dell\Desktop\graficaFinal - copia - copia\WindControladorGrafiPastel\obj\Debug\WindControladorGrafiPastel.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\graficaFinal - copia - copia\WindControladorGrafiPastel\obj\Debug\WindControladorGrafiPastel.Form1.resources
+C:\Users\Dell\Desktop\graficaFinal - copia - copia\WindControladorGrafiPastel\obj\Debug\WindControladorGrafiPastel.Properties.Resources.resources
+C:\Users\Dell\Desktop\graficaFinal - copia - copia\WindControladorGrafiPastel\obj\Debug\WindControladorGrafiPastel.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\graficaFinal - copia - copia\WindControladorGrafiPastel\obj\Debug\WindControladorGrafiPastel.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\graficaFinal - copia - copia\WindControladorGrafiPastel\obj\Debug\WindControladorGrafiPastel.csproj.CopyComplete
+C:\Users\Dell\Desktop\graficaFinal - copia - copia\WindControladorGrafiPastel\obj\Debug\WindControladorGrafiPastel.exe
+C:\Users\Dell\Desktop\graficaFinal - copia - copia\WindControladorGrafiPastel\obj\Debug\WindControladorGrafiPastel.pdb
+C:\Users\Dell\Documents\graficaFinal - copia\WindControladorGrafiPastel\bin\Debug\WindControladorGrafiPastel.exe.config
+C:\Users\Dell\Documents\graficaFinal - copia\WindControladorGrafiPastel\bin\Debug\WindControladorGrafiPastel.exe
+C:\Users\Dell\Documents\graficaFinal - copia\WindControladorGrafiPastel\bin\Debug\WindControladorGrafiPastel.pdb
+C:\Users\Dell\Documents\graficaFinal - copia\WindControladorGrafiPastel\bin\Debug\ClassModeloGrafiPastel.dll
+C:\Users\Dell\Documents\graficaFinal - copia\WindControladorGrafiPastel\bin\Debug\ClassVistaGrafiPastel.dll
+C:\Users\Dell\Documents\graficaFinal - copia\WindControladorGrafiPastel\bin\Debug\ClassModeloGrafiPastel.pdb
+C:\Users\Dell\Documents\graficaFinal - copia\WindControladorGrafiPastel\bin\Debug\ClassVistaGrafiPastel.pdb
+C:\Users\Dell\Documents\graficaFinal - copia\WindControladorGrafiPastel\obj\Debug\WindControladorGrafiPastel.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\graficaFinal - copia\WindControladorGrafiPastel\obj\Debug\WindControladorGrafiPastel.Form1.resources
+C:\Users\Dell\Documents\graficaFinal - copia\WindControladorGrafiPastel\obj\Debug\WindControladorGrafiPastel.Properties.Resources.resources
+C:\Users\Dell\Documents\graficaFinal - copia\WindControladorGrafiPastel\obj\Debug\WindControladorGrafiPastel.csproj.GenerateResource.cache
+C:\Users\Dell\Documents\graficaFinal - copia\WindControladorGrafiPastel\obj\Debug\WindControladorGrafiPastel.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\graficaFinal - copia\WindControladorGrafiPastel\obj\Debug\WindControladorGrafiPastel.csproj.CopyComplete
+C:\Users\Dell\Documents\graficaFinal - copia\WindControladorGrafiPastel\obj\Debug\WindControladorGrafiPastel.exe
+C:\Users\Dell\Documents\graficaFinal - copia\WindControladorGrafiPastel\obj\Debug\WindControladorGrafiPastel.pdb
